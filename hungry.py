@@ -3,6 +3,7 @@ if hunger == "yes":
     print("Eat some food")
     print("eat burgers and fries")
     print("add some veggies")
+    print("and fruits")
 else:
     print("do your work")
         
